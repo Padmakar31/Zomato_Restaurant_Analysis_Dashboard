@@ -1,6 +1,5 @@
  🌍 Zomato Restaurant Analytics Dashboard
 
-# Turning Restaurant Data into Business Insights
 
 **Project Type:** Data Analytics | Business Intelligence | Data Visualization
 
